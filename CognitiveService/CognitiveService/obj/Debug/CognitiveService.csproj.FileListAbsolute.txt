@@ -1,0 +1,6 @@
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\bin\Debug\CognitiveService.exe.config
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\bin\Debug\CognitiveService.exe
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\bin\Debug\CognitiveService.pdb
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\obj\Debug\CognitiveService.csprojResolveAssemblyReference.cache
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\obj\Debug\CognitiveService.exe
+D:\Projects\C-Sharp6 Practice\CognitiveService\CognitiveService\obj\Debug\CognitiveService.pdb
